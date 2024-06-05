@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34902.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpaceCalc PRO", "SpaceCalc_PRO\SpaceCalc PRO.csproj", "{6A40DDBD-BF53-4743-802E-44755506CA33}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Updater", "Updater\Updater.csproj", "{8D7F8165-D38F-48C9-A4DB-F070F913D71C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6A40DDBD-BF53-4743-802E-44755506CA33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A40DDBD-BF53-4743-802E-44755506CA33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A40DDBD-BF53-4743-802E-44755506CA33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A40DDBD-BF53-4743-802E-44755506CA33}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D7F8165-D38F-48C9-A4DB-F070F913D71C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D7F8165-D38F-48C9-A4DB-F070F913D71C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D7F8165-D38F-48C9-A4DB-F070F913D71C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D7F8165-D38F-48C9-A4DB-F070F913D71C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1D06D3D7-30D8-4BBB-825C-846951C21EA8}
+	EndGlobalSection
+EndGlobal

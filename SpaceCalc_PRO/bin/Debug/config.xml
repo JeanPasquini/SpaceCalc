@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Configuracao>
+  <MongoDB>
+    <username></username>
+    <password></password>
+    <databasename></databasename>
+    <authsource></authsource>
+  </MongoDB>
+</Configuracao>

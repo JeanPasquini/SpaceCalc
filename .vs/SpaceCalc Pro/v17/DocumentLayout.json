@@ -1,0 +1,855 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Documents\\GitHub\\app_spacecalc_pro\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6A40DDBD-BF53-4743-802E-44755506CA33}|SpaceCalc_PRO\\SpaceCalc PRO.csproj|c:\\users\\user\\documents\\github\\app_spacecalc_pro\\spacecalc_pro\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6A40DDBD-BF53-4743-802E-44755506CA33}|SpaceCalc_PRO\\SpaceCalc PRO.csproj|solutionrelative:spacecalc_pro\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|SpaceCalc PRO||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:1:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Documents\\GitHub\\app_spacecalc_pro\\CalcularM2\\frmMain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:1:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CalcularM2\\frmMain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Documents\\GitHub\\app_spacecalc_pro\\CalcularM2\\frmVisaoBotaoSegurancaUsuarioCompl.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CalcularM2\\frmVisaoBotaoSegurancaUsuarioCompl.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Documents\\GitHub\\app_spacecalc_pro\\CalcularM2\\frmCadastroSetor.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CalcularM2\\frmCadastroSetor.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:1:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Documents\\GitHub\\app_spacecalc_pro\\CalcularM2\\frmCadastroPedido.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:1:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CalcularM2\\frmCadastroPedido.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:2:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Documents\\GitHub\\app_spacecalc_pro\\CalcularM2\\frmMain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:2:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CalcularM2\\frmMain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Documents\\GitHub\\app_spacecalc_pro\\CalcularM2\\frmCadastroUsuario.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CalcularM2\\frmCadastroUsuario.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Documents\\GitHub\\app_spacecalc_pro\\CalcularM2\\frmVisaoBalanca.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CalcularM2\\frmVisaoBalanca.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Documents\\GitHub\\app_spacecalc_pro\\CalcularM2\\frmCadastroBotaoSegurancaCompl.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CalcularM2\\frmCadastroBotaoSegurancaCompl.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Documents\\GitHub\\app_spacecalc_pro\\CalcularM2\\frmAppConfiguration.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CalcularM2\\frmAppConfiguration.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Documents\\GitHub\\app_spacecalc_pro\\calcularm2\\frmselecionaproduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:calcularm2\\frmselecionaproduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:2:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Documents\\GitHub\\app_spacecalc_pro\\CalcularM2\\frmCadastroPedido.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:2:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CalcularM2\\frmCadastroPedido.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Documents\\GitHub\\app_spacecalc_pro\\CalcularM2\\frmCadastroProdutoCompl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CalcularM2\\frmCadastroProdutoCompl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Documents\\GitHub\\app_spacecalc_pro\\CalcularM2\\frmCadastroPedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CalcularM2\\frmCadastroPedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Documents\\GitHub\\app_spacecalc_pro\\calcularm2\\frmvisaopedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:calcularm2\\frmvisaopedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Documents\\GitHub\\app_spacecalc_pro\\CalcularM2\\frmVisaoPedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CalcularM2\\frmVisaoPedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Documents\\GitHub\\app_spacecalc_pro\\CalcularM2\\frmSelecionaProduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CalcularM2\\frmSelecionaProduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Documents\\GitHub\\app_spacecalc_pro\\calcularm2\\frmcadastropedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:calcularm2\\frmcadastropedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Documents\\GitHub\\app_spacecalc_pro\\calcularm2\\frmcadastroprodutocompl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:calcularm2\\frmcadastroprodutocompl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Documents\\GitHub\\app_spacecalc_pro\\CalcularM2\\frmVisaoProduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CalcularM2\\frmVisaoProduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Documents\\GitHub\\app_spacecalc_pro\\calcularm2\\frmvisaoproduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:calcularm2\\frmvisaoproduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Documents\\GitHub\\app_spacecalc_pro\\calcularm2\\frmvisaocustos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:calcularm2\\frmvisaocustos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Documents\\GitHub\\app_spacecalc_pro\\CalcularM2\\frmMain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CalcularM2\\frmMain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Documents\\GitHub\\app_spacecalc_pro\\CalcularM2\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CalcularM2\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Documents\\GitHub\\app_spacecalc_pro\\CalcularM2\\frmSelecionaBotaoSegurancaCompl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CalcularM2\\frmSelecionaBotaoSegurancaCompl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Documents\\GitHub\\app_spacecalc_pro\\calcularm2\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:calcularm2\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Documents\\GitHub\\app_spacecalc_pro\\CalcularM2\\mongoDB.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CalcularM2\\mongoDB.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Documents\\GitHub\\app_spacecalc_pro\\CalcularM2\\metodosDB.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CalcularM2\\metodosDB.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Documents\\GitHub\\app_spacecalc_pro\\CalcularM2\\session.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CalcularM2\\session.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Documents\\GitHub\\app_spacecalc_pro\\CalcularM2\\frmVisaoPedido.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CalcularM2\\frmVisaoPedido.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Documents\\GitHub\\app_spacecalc_pro\\CalcularM2\\frmVisaoSetor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CalcularM2\\frmVisaoSetor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Documents\\GitHub\\app_spacecalc_pro\\CalcularM2\\frmSelecionaSetor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CalcularM2\\frmSelecionaSetor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Documents\\GitHub\\app_spacecalc_pro\\calcularm2\\frmselecionasetor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:calcularm2\\frmselecionasetor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Documents\\GitHub\\app_spacecalc_pro\\calcularm2\\frmvisaosetor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:calcularm2\\frmvisaosetor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Documents\\GitHub\\app_spacecalc_pro\\CalcularM2\\frmSelecionaSetor.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CalcularM2\\frmSelecionaSetor.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Documents\\GitHub\\app_spacecalc_pro\\CalcularM2\\frmSelecionaProduto.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CalcularM2\\frmSelecionaProduto.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Documents\\GitHub\\app_spacecalc_pro\\CalcularM2\\frmCadastroProdutoCompl.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CalcularM2\\frmCadastroProdutoCompl.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Documents\\GitHub\\app_spacecalc_pro\\calcularm2\\frmcadastrosetor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:calcularm2\\frmcadastrosetor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Documents\\GitHub\\app_spacecalc_pro\\calcularm2\\frmcadastrousuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:calcularm2\\frmcadastrousuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Documents\\GitHub\\app_spacecalc_pro\\calcularm2\\frmcadastroproduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:calcularm2\\frmcadastroproduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Documents\\GitHub\\app_spacecalc_pro\\calcularm2\\frmcadastrobotaosegurancacompl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:calcularm2\\frmcadastrobotaosegurancacompl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Documents\\GitHub\\app_spacecalc_pro\\calcularm2\\frmvisaousuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:calcularm2\\frmvisaousuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Documents\\GitHub\\app_spacecalc_pro\\calcularm2\\frmvisaocalculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:calcularm2\\frmvisaocalculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Documents\\GitHub\\app_spacecalc_pro\\calcularm2\\frmmodelo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:calcularm2\\frmmodelo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Documents\\GitHub\\app_spacecalc_pro\\calcularm2\\frmvisaobotaosegurancausuariocompl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:calcularm2\\frmvisaobotaosegurancausuariocompl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Documents\\GitHub\\app_spacecalc_pro\\calcularm2\\frmvisaobotaosegurancausuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:calcularm2\\frmvisaobotaosegurancausuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Documents\\GitHub\\app_spacecalc_pro\\calcularm2\\frmselecionaprocesso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:calcularm2\\frmselecionaprocesso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Documents\\GitHub\\app_spacecalc_pro\\calcularm2\\frmselecionabotaosegurancacompl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:calcularm2\\frmselecionabotaosegurancacompl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Documents\\GitHub\\app_spacecalc_pro\\calcularm2\\frmvisaobotaoseguranca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:calcularm2\\frmvisaobotaoseguranca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Documents\\GitHub\\app_spacecalc_pro\\CalcularM2\\frmVisaoBotaoSeguranca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CalcularM2\\frmVisaoBotaoSeguranca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Documents\\GitHub\\app_spacecalc_pro\\calcularm2\\frmcadastrobotaoseguranca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:calcularm2\\frmcadastrobotaoseguranca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Documents\\GitHub\\app_spacecalc_pro\\CalcularM2\\frmVisaoCustos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CalcularM2\\frmVisaoCustos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Documents\\GitHub\\app_spacecalc_pro\\CalcularM2\\frmVisaoUsuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CalcularM2\\frmVisaoUsuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A40DDBD-BF53-4743-802E-44755506CA33}|SpaceCalc_PRO\\SpaceCalc PRO.csproj|c:\\users\\user\\documents\\github\\app_spacecalc_pro\\spacecalc_pro\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmMain.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\app_spacecalc_pro\\SpaceCalc_PRO\\frmMain.cs",
+              "RelativeDocumentMoniker": "SpaceCalc_PRO\\frmMain.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\app_spacecalc_pro\\SpaceCalc_PRO\\frmMain.cs [Design]",
+              "RelativeToolTip": "SpaceCalc_PRO\\frmMain.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T14:34:17.777Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmMain.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\app_spacecalc_pro\\CalcularM2\\frmMain.cs",
+              "RelativeDocumentMoniker": "CalcularM2\\frmMain.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\app_spacecalc_pro\\CalcularM2\\frmMain.cs [Design]",
+              "RelativeToolTip": "CalcularM2\\frmMain.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T11:53:49.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmVisaoBotaoSegurancaUsuarioCompl.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\app_spacecalc_pro\\CalcularM2\\frmVisaoBotaoSegurancaUsuarioCompl.Designer.cs",
+              "RelativeDocumentMoniker": "CalcularM2\\frmVisaoBotaoSegurancaUsuarioCompl.Designer.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\app_spacecalc_pro\\CalcularM2\\frmVisaoBotaoSegurancaUsuarioCompl.Designer.cs",
+              "RelativeToolTip": "CalcularM2\\frmVisaoBotaoSegurancaUsuarioCompl.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T11:54:54.265Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmCadastroSetor.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\app_spacecalc_pro\\CalcularM2\\frmCadastroSetor.Designer.cs",
+              "RelativeDocumentMoniker": "CalcularM2\\frmCadastroSetor.Designer.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\app_spacecalc_pro\\CalcularM2\\frmCadastroSetor.Designer.cs",
+              "RelativeToolTip": "CalcularM2\\frmCadastroSetor.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T11:54:30.22Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmCadastroPedido.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\app_spacecalc_pro\\CalcularM2\\frmCadastroPedido.Designer.cs",
+              "RelativeDocumentMoniker": "CalcularM2\\frmCadastroPedido.Designer.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\app_spacecalc_pro\\CalcularM2\\frmCadastroPedido.Designer.cs",
+              "RelativeToolTip": "CalcularM2\\frmCadastroPedido.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T11:53:49.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frmMain.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\app_spacecalc_pro\\CalcularM2\\frmMain.cs",
+              "RelativeDocumentMoniker": "CalcularM2\\frmMain.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\app_spacecalc_pro\\CalcularM2\\frmMain.cs [Design]",
+              "RelativeToolTip": "CalcularM2\\frmMain.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T12:38:46.083Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SpaceCalc PRO",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\app_spacecalc_pro\\SpaceCalc_PRO\\SpaceCalc PRO.csproj",
+              "RelativeDocumentMoniker": "SpaceCalc_PRO\\SpaceCalc PRO.csproj",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\app_spacecalc_pro\\SpaceCalc_PRO\\SpaceCalc PRO.csproj",
+              "RelativeToolTip": "SpaceCalc_PRO\\SpaceCalc PRO.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-06-03T11:53:58.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "frmCadastroUsuario.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\app_spacecalc_pro\\CalcularM2\\frmCadastroUsuario.Designer.cs",
+              "RelativeDocumentMoniker": "CalcularM2\\frmCadastroUsuario.Designer.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\app_spacecalc_pro\\CalcularM2\\frmCadastroUsuario.Designer.cs",
+              "RelativeToolTip": "CalcularM2\\frmCadastroUsuario.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T11:54:49.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "frmVisaoBalanca.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\app_spacecalc_pro\\CalcularM2\\frmVisaoBalanca.Designer.cs",
+              "RelativeDocumentMoniker": "CalcularM2\\frmVisaoBalanca.Designer.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\app_spacecalc_pro\\CalcularM2\\frmVisaoBalanca.Designer.cs",
+              "RelativeToolTip": "CalcularM2\\frmVisaoBalanca.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T11:54:52.161Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "frmCadastroBotaoSegurancaCompl.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\app_spacecalc_pro\\CalcularM2\\frmCadastroBotaoSegurancaCompl.Designer.cs",
+              "RelativeDocumentMoniker": "CalcularM2\\frmCadastroBotaoSegurancaCompl.Designer.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\app_spacecalc_pro\\CalcularM2\\frmCadastroBotaoSegurancaCompl.Designer.cs",
+              "RelativeToolTip": "CalcularM2\\frmCadastroBotaoSegurancaCompl.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA0AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T11:54:20.213Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "frmAppConfiguration.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\app_spacecalc_pro\\CalcularM2\\frmAppConfiguration.Designer.cs",
+              "RelativeDocumentMoniker": "CalcularM2\\frmAppConfiguration.Designer.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\app_spacecalc_pro\\CalcularM2\\frmAppConfiguration.Designer.cs",
+              "RelativeToolTip": "CalcularM2\\frmAppConfiguration.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T11:54:13.54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "frmSelecionaProduto.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\app_spacecalc_pro\\CalcularM2\\frmSelecionaProduto.cs",
+              "RelativeDocumentMoniker": "CalcularM2\\frmSelecionaProduto.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\app_spacecalc_pro\\CalcularM2\\frmSelecionaProduto.cs [Design]",
+              "RelativeToolTip": "CalcularM2\\frmSelecionaProduto.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T14:07:37.546Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "frmCadastroPedido.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\app_spacecalc_pro\\CalcularM2\\frmCadastroPedido.Designer.cs",
+              "RelativeDocumentMoniker": "CalcularM2\\frmCadastroPedido.Designer.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\app_spacecalc_pro\\CalcularM2\\frmCadastroPedido.Designer.cs",
+              "RelativeToolTip": "CalcularM2\\frmCadastroPedido.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA0AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T13:15:43.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "frmCadastroProdutoCompl.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\app_spacecalc_pro\\CalcularM2\\frmCadastroProdutoCompl.cs",
+              "RelativeDocumentMoniker": "CalcularM2\\frmCadastroProdutoCompl.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\app_spacecalc_pro\\CalcularM2\\frmCadastroProdutoCompl.cs",
+              "RelativeToolTip": "CalcularM2\\frmCadastroProdutoCompl.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T13:59:01.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "frmCadastroPedido.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\app_spacecalc_pro\\CalcularM2\\frmCadastroPedido.cs",
+              "RelativeDocumentMoniker": "CalcularM2\\frmCadastroPedido.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\app_spacecalc_pro\\CalcularM2\\frmCadastroPedido.cs",
+              "RelativeToolTip": "CalcularM2\\frmCadastroPedido.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T14:10:41.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "frmVisaoPedido.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\app_spacecalc_pro\\CalcularM2\\frmVisaoPedido.cs",
+              "RelativeDocumentMoniker": "CalcularM2\\frmVisaoPedido.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\app_spacecalc_pro\\CalcularM2\\frmVisaoPedido.cs [Design]",
+              "RelativeToolTip": "CalcularM2\\frmVisaoPedido.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T13:58:23.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "frmVisaoPedido.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\app_spacecalc_pro\\CalcularM2\\frmVisaoPedido.cs",
+              "RelativeDocumentMoniker": "CalcularM2\\frmVisaoPedido.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\app_spacecalc_pro\\CalcularM2\\frmVisaoPedido.cs",
+              "RelativeToolTip": "CalcularM2\\frmVisaoPedido.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T13:03:01.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "frmSelecionaProduto.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\app_spacecalc_pro\\CalcularM2\\frmSelecionaProduto.cs",
+              "RelativeDocumentMoniker": "CalcularM2\\frmSelecionaProduto.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\app_spacecalc_pro\\CalcularM2\\frmSelecionaProduto.cs",
+              "RelativeToolTip": "CalcularM2\\frmSelecionaProduto.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAEcAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T14:07:26.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "frmCadastroPedido.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\app_spacecalc_pro\\CalcularM2\\frmCadastroPedido.cs",
+              "RelativeDocumentMoniker": "CalcularM2\\frmCadastroPedido.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\app_spacecalc_pro\\CalcularM2\\frmCadastroPedido.cs [Design]",
+              "RelativeToolTip": "CalcularM2\\frmCadastroPedido.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T13:15:26.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "frmCadastroProdutoCompl.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\app_spacecalc_pro\\CalcularM2\\frmCadastroProdutoCompl.cs",
+              "RelativeDocumentMoniker": "CalcularM2\\frmCadastroProdutoCompl.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\app_spacecalc_pro\\CalcularM2\\frmCadastroProdutoCompl.cs [Design]",
+              "RelativeToolTip": "CalcularM2\\frmCadastroProdutoCompl.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T13:59:15.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "frmVisaoProduto.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\app_spacecalc_pro\\CalcularM2\\frmVisaoProduto.cs",
+              "RelativeDocumentMoniker": "CalcularM2\\frmVisaoProduto.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\app_spacecalc_pro\\CalcularM2\\frmVisaoProduto.cs",
+              "RelativeToolTip": "CalcularM2\\frmVisaoProduto.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T14:28:23.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "frmVisaoProduto.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\app_spacecalc_pro\\CalcularM2\\frmVisaoProduto.cs",
+              "RelativeDocumentMoniker": "CalcularM2\\frmVisaoProduto.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\app_spacecalc_pro\\CalcularM2\\frmVisaoProduto.cs [Design]",
+              "RelativeToolTip": "CalcularM2\\frmVisaoProduto.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T13:58:24.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "frmVisaoCustos.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\app_spacecalc_pro\\CalcularM2\\frmVisaoCustos.cs",
+              "RelativeDocumentMoniker": "CalcularM2\\frmVisaoCustos.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\app_spacecalc_pro\\CalcularM2\\frmVisaoCustos.cs [Design]",
+              "RelativeToolTip": "CalcularM2\\frmVisaoCustos.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T13:24:27.576Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "frmMain.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\app_spacecalc_pro\\CalcularM2\\frmMain.cs",
+              "RelativeDocumentMoniker": "CalcularM2\\frmMain.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\app_spacecalc_pro\\CalcularM2\\frmMain.cs",
+              "RelativeToolTip": "CalcularM2\\frmMain.cs",
+              "ViewState": "AQIAAMkAAAAAAAAAAADwv+AAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T12:39:21.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "login.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\app_spacecalc_pro\\CalcularM2\\login.cs",
+              "RelativeDocumentMoniker": "CalcularM2\\login.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\app_spacecalc_pro\\CalcularM2\\login.cs",
+              "RelativeToolTip": "CalcularM2\\login.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T12:45:05.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "frmSelecionaBotaoSegurancaCompl.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\app_spacecalc_pro\\CalcularM2\\frmSelecionaBotaoSegurancaCompl.cs",
+              "RelativeDocumentMoniker": "CalcularM2\\frmSelecionaBotaoSegurancaCompl.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\app_spacecalc_pro\\CalcularM2\\frmSelecionaBotaoSegurancaCompl.cs",
+              "RelativeToolTip": "CalcularM2\\frmSelecionaBotaoSegurancaCompl.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T16:51:24.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "login.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\app_spacecalc_pro\\CalcularM2\\login.cs",
+              "RelativeDocumentMoniker": "CalcularM2\\login.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\app_spacecalc_pro\\CalcularM2\\login.cs [Design]",
+              "RelativeToolTip": "CalcularM2\\login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T12:43:38.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "mongoDB.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\app_spacecalc_pro\\CalcularM2\\mongoDB.cs",
+              "RelativeDocumentMoniker": "CalcularM2\\mongoDB.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\app_spacecalc_pro\\CalcularM2\\mongoDB.cs",
+              "RelativeToolTip": "CalcularM2\\mongoDB.cs",
+              "ViewState": "AQIAAEABAAAAAAAAAAAAAFUBAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T16:04:48.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "metodosDB.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\app_spacecalc_pro\\CalcularM2\\metodosDB.cs",
+              "RelativeDocumentMoniker": "CalcularM2\\metodosDB.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\app_spacecalc_pro\\CalcularM2\\metodosDB.cs",
+              "RelativeToolTip": "CalcularM2\\metodosDB.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAKcAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T16:11:40.563Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "session.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\app_spacecalc_pro\\CalcularM2\\session.cs",
+              "RelativeDocumentMoniker": "CalcularM2\\session.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\app_spacecalc_pro\\CalcularM2\\session.cs",
+              "RelativeToolTip": "CalcularM2\\session.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T16:01:06.518Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "frmVisaoPedido.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\app_spacecalc_pro\\CalcularM2\\frmVisaoPedido.Designer.cs",
+              "RelativeDocumentMoniker": "CalcularM2\\frmVisaoPedido.Designer.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\app_spacecalc_pro\\CalcularM2\\frmVisaoPedido.Designer.cs",
+              "RelativeToolTip": "CalcularM2\\frmVisaoPedido.Designer.cs",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAMwFoAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T13:02:51.934Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "frmVisaoSetor.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\app_spacecalc_pro\\CalcularM2\\frmVisaoSetor.cs",
+              "RelativeDocumentMoniker": "CalcularM2\\frmVisaoSetor.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\app_spacecalc_pro\\CalcularM2\\frmVisaoSetor.cs",
+              "RelativeToolTip": "CalcularM2\\frmVisaoSetor.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T14:15:25.04Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "frmSelecionaSetor.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\app_spacecalc_pro\\CalcularM2\\frmSelecionaSetor.cs",
+              "RelativeDocumentMoniker": "CalcularM2\\frmSelecionaSetor.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\app_spacecalc_pro\\CalcularM2\\frmSelecionaSetor.cs",
+              "RelativeToolTip": "CalcularM2\\frmSelecionaSetor.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T14:07:15.633Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "frmSelecionaSetor.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\app_spacecalc_pro\\CalcularM2\\frmSelecionaSetor.cs",
+              "RelativeDocumentMoniker": "CalcularM2\\frmSelecionaSetor.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\app_spacecalc_pro\\CalcularM2\\frmSelecionaSetor.cs [Design]",
+              "RelativeToolTip": "CalcularM2\\frmSelecionaSetor.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T13:58:18.842Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "frmVisaoSetor.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\app_spacecalc_pro\\CalcularM2\\frmVisaoSetor.cs",
+              "RelativeDocumentMoniker": "CalcularM2\\frmVisaoSetor.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\app_spacecalc_pro\\CalcularM2\\frmVisaoSetor.cs [Design]",
+              "RelativeToolTip": "CalcularM2\\frmVisaoSetor.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T13:58:25.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "frmSelecionaSetor.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\app_spacecalc_pro\\CalcularM2\\frmSelecionaSetor.Designer.cs",
+              "RelativeDocumentMoniker": "CalcularM2\\frmSelecionaSetor.Designer.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\app_spacecalc_pro\\CalcularM2\\frmSelecionaSetor.Designer.cs",
+              "RelativeToolTip": "CalcularM2\\frmSelecionaSetor.Designer.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAIAwwCoAAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T14:07:20.437Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "frmSelecionaProduto.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\app_spacecalc_pro\\CalcularM2\\frmSelecionaProduto.Designer.cs",
+              "RelativeDocumentMoniker": "CalcularM2\\frmSelecionaProduto.Designer.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\app_spacecalc_pro\\CalcularM2\\frmSelecionaProduto.Designer.cs",
+              "RelativeToolTip": "CalcularM2\\frmSelecionaProduto.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T14:07:34.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "frmCadastroProdutoCompl.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\app_spacecalc_pro\\CalcularM2\\frmCadastroProdutoCompl.Designer.cs",
+              "RelativeDocumentMoniker": "CalcularM2\\frmCadastroProdutoCompl.Designer.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\app_spacecalc_pro\\CalcularM2\\frmCadastroProdutoCompl.Designer.cs",
+              "RelativeToolTip": "CalcularM2\\frmCadastroProdutoCompl.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T13:59:17.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "frmCadastroSetor.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\app_spacecalc_pro\\CalcularM2\\frmCadastroSetor.cs",
+              "RelativeDocumentMoniker": "CalcularM2\\frmCadastroSetor.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\app_spacecalc_pro\\CalcularM2\\frmCadastroSetor.cs [Design]",
+              "RelativeToolTip": "CalcularM2\\frmCadastroSetor.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T13:58:13.073Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "frmCadastroUsuario.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\app_spacecalc_pro\\CalcularM2\\frmCadastroUsuario.cs",
+              "RelativeDocumentMoniker": "CalcularM2\\frmCadastroUsuario.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\app_spacecalc_pro\\CalcularM2\\frmCadastroUsuario.cs [Design]",
+              "RelativeToolTip": "CalcularM2\\frmCadastroUsuario.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T13:58:28.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "frmCadastroProduto.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\app_spacecalc_pro\\CalcularM2\\frmCadastroProduto.cs",
+              "RelativeDocumentMoniker": "CalcularM2\\frmCadastroProduto.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\app_spacecalc_pro\\CalcularM2\\frmCadastroProduto.cs [Design]",
+              "RelativeToolTip": "CalcularM2\\frmCadastroProduto.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T13:58:03.737Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "frmCadastroBotaoSegurancaCompl.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\app_spacecalc_pro\\CalcularM2\\frmCadastroBotaoSegurancaCompl.cs",
+              "RelativeDocumentMoniker": "CalcularM2\\frmCadastroBotaoSegurancaCompl.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\app_spacecalc_pro\\CalcularM2\\frmCadastroBotaoSegurancaCompl.cs [Design]",
+              "RelativeToolTip": "CalcularM2\\frmCadastroBotaoSegurancaCompl.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T13:23:23.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "frmVisaoUsuario.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\app_spacecalc_pro\\CalcularM2\\frmVisaoUsuario.cs",
+              "RelativeDocumentMoniker": "CalcularM2\\frmVisaoUsuario.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\app_spacecalc_pro\\CalcularM2\\frmVisaoUsuario.cs [Design]",
+              "RelativeToolTip": "CalcularM2\\frmVisaoUsuario.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T12:37:42.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "frmVisaoCalculadora.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\app_spacecalc_pro\\CalcularM2\\frmVisaoCalculadora.cs",
+              "RelativeDocumentMoniker": "CalcularM2\\frmVisaoCalculadora.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\app_spacecalc_pro\\CalcularM2\\frmVisaoCalculadora.cs [Design]",
+              "RelativeToolTip": "CalcularM2\\frmVisaoCalculadora.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T13:58:22.873Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "frmModelo.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\app_spacecalc_pro\\CalcularM2\\frmModelo.cs",
+              "RelativeDocumentMoniker": "CalcularM2\\frmModelo.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\app_spacecalc_pro\\CalcularM2\\frmModelo.cs [Design]",
+              "RelativeToolTip": "CalcularM2\\frmModelo.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T12:47:49.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "frmVisaoBotaoSegurancaUsuarioCompl.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\app_spacecalc_pro\\CalcularM2\\frmVisaoBotaoSegurancaUsuarioCompl.cs",
+              "RelativeDocumentMoniker": "CalcularM2\\frmVisaoBotaoSegurancaUsuarioCompl.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\app_spacecalc_pro\\CalcularM2\\frmVisaoBotaoSegurancaUsuarioCompl.cs [Design]",
+              "RelativeToolTip": "CalcularM2\\frmVisaoBotaoSegurancaUsuarioCompl.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T13:58:21.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "frmVisaoBotaoSegurancaUsuario.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\app_spacecalc_pro\\CalcularM2\\frmVisaoBotaoSegurancaUsuario.cs",
+              "RelativeDocumentMoniker": "CalcularM2\\frmVisaoBotaoSegurancaUsuario.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\app_spacecalc_pro\\CalcularM2\\frmVisaoBotaoSegurancaUsuario.cs [Design]",
+              "RelativeToolTip": "CalcularM2\\frmVisaoBotaoSegurancaUsuario.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T13:58:21.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "frmSelecionaProcesso.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\app_spacecalc_pro\\CalcularM2\\frmSelecionaProcesso.cs",
+              "RelativeDocumentMoniker": "CalcularM2\\frmSelecionaProcesso.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\app_spacecalc_pro\\CalcularM2\\frmSelecionaProcesso.cs [Design]",
+              "RelativeToolTip": "CalcularM2\\frmSelecionaProcesso.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T13:57:47.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "frmSelecionaBotaoSegurancaCompl.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\app_spacecalc_pro\\CalcularM2\\frmSelecionaBotaoSegurancaCompl.cs",
+              "RelativeDocumentMoniker": "CalcularM2\\frmSelecionaBotaoSegurancaCompl.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\app_spacecalc_pro\\CalcularM2\\frmSelecionaBotaoSegurancaCompl.cs [Design]",
+              "RelativeToolTip": "CalcularM2\\frmSelecionaBotaoSegurancaCompl.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T13:57:46.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "frmVisaoBotaoSeguranca.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\app_spacecalc_pro\\CalcularM2\\frmVisaoBotaoSeguranca.cs",
+              "RelativeDocumentMoniker": "CalcularM2\\frmVisaoBotaoSeguranca.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\app_spacecalc_pro\\CalcularM2\\frmVisaoBotaoSeguranca.cs [Design]",
+              "RelativeToolTip": "CalcularM2\\frmVisaoBotaoSeguranca.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T13:23:26.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "frmVisaoBotaoSeguranca.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\app_spacecalc_pro\\CalcularM2\\frmVisaoBotaoSeguranca.cs",
+              "RelativeDocumentMoniker": "CalcularM2\\frmVisaoBotaoSeguranca.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\app_spacecalc_pro\\CalcularM2\\frmVisaoBotaoSeguranca.cs",
+              "RelativeToolTip": "CalcularM2\\frmVisaoBotaoSeguranca.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T13:53:30.267Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "frmCadastroBotaoSeguranca.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\app_spacecalc_pro\\CalcularM2\\frmCadastroBotaoSeguranca.cs",
+              "RelativeDocumentMoniker": "CalcularM2\\frmCadastroBotaoSeguranca.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\app_spacecalc_pro\\CalcularM2\\frmCadastroBotaoSeguranca.cs [Design]",
+              "RelativeToolTip": "CalcularM2\\frmCadastroBotaoSeguranca.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T13:28:40.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "frmVisaoCustos.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\app_spacecalc_pro\\CalcularM2\\frmVisaoCustos.cs",
+              "RelativeDocumentMoniker": "CalcularM2\\frmVisaoCustos.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\app_spacecalc_pro\\CalcularM2\\frmVisaoCustos.cs",
+              "RelativeToolTip": "CalcularM2\\frmVisaoCustos.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T12:39:33.991Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "frmVisaoUsuario.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\app_spacecalc_pro\\CalcularM2\\frmVisaoUsuario.cs",
+              "RelativeDocumentMoniker": "CalcularM2\\frmVisaoUsuario.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\app_spacecalc_pro\\CalcularM2\\frmVisaoUsuario.cs",
+              "RelativeToolTip": "CalcularM2\\frmVisaoUsuario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T12:37:59.2Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
